@@ -1,0 +1,6 @@
+image-slicer==2.1.1
+selenium==3.141.0
+loguru==0.5.3
+requests==2.22.0
+boto3==1.17.44
+python-dotenv==0.17.0
